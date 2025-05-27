@@ -1,7 +1,7 @@
 # Insurance Data Analysis Project
-Student ID: P146737
-Course: STQD6324 Data Management (Semester 2, 2024/2025)
-University: University Kebangsaan Malaysia (UKM)
+- Student ID: P146737
+- Course: STQD6324 Data Management (Semester 2, 2024/2025)
+- University: University Kebangsaan Malaysia (UKM)
 
 ## Project Overview
 This project is a part of the Data Management course for the Masters of Data Science and Analytics at UKM. 
