@@ -54,4 +54,4 @@ The chosen dataset is accessible at GitHub at https://github.com/stedy/Machine-L
 This analysis provides key insights into factors affecting insurance charges. These insights can help life insurance companies to optimize pricing strategies and refine risk models, leading to more accurate and fair premium calculations.
 
 ### 6. Additional Elements that Support the Analysis
-A multiple linear regression model was used to confirm the effects of different factors on insurance charges. A bar chart of regression coefficients clearly shows smoking as the strongest factor, followed by age, BMI and children. This supports and strengthens the earlier analysis results.
+A multiple linear regression model was used to confirm the effects of different factors on insurance charges. A bar chart of regression coefficients clearly shows smoking as the strongest factor. This supports and strengthens the earlier analysis results.
