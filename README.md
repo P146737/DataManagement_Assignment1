@@ -28,7 +28,7 @@ The chosen dataset is accessible at GitHub at https://github.com/stedy/Machine-L
 - **GitHub** - for version control and publishing
 
 ## Repository contents
-The full Python analysis notebook is available in this repository as Insurance Data Analysis using Hive and Python.ipynb. You can open and run it directly on Google Colab for interactive exploration.
+The full Python analysis notebook "Insurance Data Analysis using Hive and Python.ipynb" is included in this repository. You can open and run it directly on Google Colab for interactive exploration.
 
 ## Project Sections
 ### 1. Data Cleaning
