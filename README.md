@@ -21,11 +21,11 @@ The chosen dataset is accessible at GitHub at https://github.com/stedy/Machine-L
 - 'charges' is the premium charged by life insurance company towards the insured
 
 ## Tools and Technologies
-**Python(Jupyter Notebook via Google Colab)**
-**Pandas** - for data manipulation
-**Matplotlib and Seaborn** - for data visualization
-**Apache Hive** - for data querying and processing
-**GitHub** - for version control and publishing
+- **Python(Jupyter Notebook via Google Colab)**
+- **Pandas** - for data manipulation
+- **Matplotlib and Seaborn** - for data visualization
+- **Apache Hive** - for data querying and processing
+- **GitHub** - for version control and publishing
 
 ## Repository contents
 ## Project Sections
